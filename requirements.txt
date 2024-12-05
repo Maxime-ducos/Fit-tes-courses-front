@@ -1,0 +1,25 @@
+pytest
+pylint
+ipdb
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+nltk
+fastapi
+uvicorn
+transformers
+torch
+streamlit
+textblob
+diffusers
+gradio_client
+pytz
+httpx
+pytest-asyncio
+python-dotenv
+
+#pip install -r requirements.txt
